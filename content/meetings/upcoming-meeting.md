@@ -16,11 +16,8 @@ type = "docs"  # Do not modify.
 # Add menu entry to sidebar.
 linktitle = "Calendar"
 [menu.meetings]
-  parent = "Overview"
-  weight = 2
+  weight = 1
 +++
-
-Vestibulum sit amet erat at nulla eleifend gravida.
 
 ## Calendar
 

@@ -5,23 +5,33 @@ draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
-# Add menu entry to sidebar.
-[menu.meetings]
-  name = "Overview"
-  weight = 1
 +++
 
 ## Welcome
 
-Oriention type words about accessing past agendas and meeting notes. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. 
+The primary focus of the project is to identify potential data, compile and provide access to appropriate data, and develop analytical models consistent with CVPIA fish doubling goals within the framework of Structured Decision Making. This effort will be coordinated and revised with the resource agencies and stakeholders. It is anticipated that agency and stakeholder representatives will provide the majority of the biological expertise and institutional knowledge.
+
+Biological expertise and institutional knowledge is transferred to the SDM process through a series of regularly-scheduled conference calls and in-person meetings. Records of previous meetings are available for review. 
+
+[Background Information on Team Guidelines](https://drive.google.com/file/d/1DJSuOWBipOt819ORTECXvIjAogAb6mxu/view)
+
+[Five Year Restoration Strategy](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
+
+[FY18 Model Activities](https://drive.google.com/file/d/1BlvUrV5pkcqp-CJcp5WFEh7PnxzknSMH/view)
+
+[2019 Priorities Technical Memorandum](https://drive.google.com/file/d/1Ec3qn0Wk-PiygfZm-ZsdnYOUhdRl2sPd/view)
+
+
 
 ## Upcoming Meeting
-Words about upcoming meeting. Proin tincidunt magna sed ex sollicitudin condimentum. 
+The next meeting will be:
 
-**Location**   
-**Time**    
-**Agenda**    
-**Call-in Number**
+Location 
 
-Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+Time 
+
+Agenda 
+
+Call-in Number
+
 

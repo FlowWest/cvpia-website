@@ -1,13 +1,17 @@
 +++
 title = "About"
-summary = ""
-date = 2019-06-04T00:00:00  # Schedule page publish date.
-showthedate = false
-
+date = 2019-06-04
 reading_time = false
 share = false 
 profile = false 
 comments = false
+widgit = "abouts"
+
+draft = false  # Is this a draft? true/false
+toc = false  # Show table of contents? true/false
+type = "pages"  # Do not modify.
+menu = false
+
 
 +++
 In 2008, an independent review of the anadromous fish related provisions of the CVPIA, recommended improving the science-based framework for decision making. The agencies jointly implementing the CVPIA; US Bureau of Reclamation and the US Fish and Wildlife Service, adopted Structured Decision Making (SDM) to address the recommendation. 
