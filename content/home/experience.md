@@ -43,6 +43,6 @@ date_format = "January 2006"
   company_url = ""
   location = "estimated timeframe"
   date_start = "2018-12-01"
-  date_end = "2019-06-01"
+  date_end = ""
   description = """Calibration model for fall, spring, and winter chinook."""
 +++

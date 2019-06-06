@@ -5,8 +5,17 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2019-01-01T08:30:00
-time_end = 2019-01-01T15:00:00
+time_start = 2019-06-19T08:30:00
+time_end = 2019-06-20T16:30:00
+
+# Location of event.
+location = "Sacramento, CA"
+
+# Agenda of event 
+agenda = "none"
+
+#Call-In Number 
+call_in = "Call-in (#)"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -18,9 +27,6 @@ abstract_short = "CVPIA SDM"
 # Name of event and optional event URL.
 event = ""
 event_url = "https://example.org"
-
-# Location of event.
-location = "Sacramento, CA"
 
 # Is this a selected talk? (true/false)
 selected = false

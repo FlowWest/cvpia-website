@@ -24,14 +24,16 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 
 ## Upcoming Meeting
-The next meeting will be:
 
-Location 
+Location: Sacramento, CA 
 
-Time 
+Date: June, 19th 8:30-4:30
 
-Agenda 
+Agenda: TBD link?
 
-Call-in Number
+Call-In Number: 
+
+
+
 
 

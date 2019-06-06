@@ -1,6 +1,9 @@
 <div class="pub-list-item" style="margin-bottom: 1rem" itemscope itemtype="http://schema.org/Event">
   <i class="fas fa-calendar-alt pub-icon" aria-hidden="true"></i>
   <span itemprop="name"><a href="/meetings">{{ .Title }}</a></span>
+  <div>
+    {{.Params.location}}
+  </div>
   <div itemprop="startDate">
     {{ $date1 := .Params.time_start | default .Date }}
     {{ $date2 := .Params.time_end | default .Date }}
@@ -12,15 +15,18 @@
       {{ (time $date2).Format ($.Site.Params.time_format | default "3:04 PM") }}
     {{ end }}
   </div>
+  <div>
+    {{.Params.agenda}}
+  </div>
+  <div>
+    {{.Params.call_in}}
+  </div>
   <div class="talk-metadata">
     {{ if .Params.event_short }}
         {{ .Params.event_short | markdownify }}
     {{ else if .Params.event }}
             {{ .Params.event | markdownify }}
     {{ end }}
-  </div>
-  <div>
-    {{.Params.location}}
   </div>
   <div class="btn-links">
     {{ partial "page_links" (dict "content" . "is_list" 1) }}
