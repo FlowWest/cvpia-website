@@ -25,7 +25,7 @@ date_format = "January 2006"
   company_url = ""
   location = "estimated timeframe"
   date_start = "2019-02-01"
-  date_end = "2019-06-01"
+  date_end = "2019-04-01"
   description = """Running newly calibrated model and reporting results to SIT"""
 
 [[experience]]
@@ -34,7 +34,7 @@ date_format = "January 2006"
   company_url = ""
   location = "estimated timeframe"
   date_start = "2019-05-01"
-  date_end = "2019-04-30"
+  date_end = "2019-06-30"
   description = """Submital period for charters"""
 
 [[experience]]

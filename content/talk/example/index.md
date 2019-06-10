@@ -11,11 +11,9 @@ time_end = 2019-06-20T16:30:00
 # Location of event.
 location = "Sacramento, CA"
 
-# Agenda of event 
-agenda = "none"
-
 #Call-In Number 
-call_in = "Call-in (#)"
+call_in = "+1-415-655-0002 (code: 928 893 604)"
+
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []

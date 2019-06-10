@@ -1,14 +1,14 @@
 +++
 title = "About"
-#date = 2019-06-04
+date =  2019-06-10
 reading_time = false
 share = false 
 profile = false 
 comments = false
-widgit = "talks"
+
 draft = false  # Is this a draft? true/false
 toc = false  # Show table of contents? true/false
-type = "docs"  # Do not modify.
+type = "sections"  # Do not modify.
 
 linktitle = "About"
 [menu.about]
