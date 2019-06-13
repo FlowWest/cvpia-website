@@ -1,8 +1,8 @@
 +++
-title = "Privacy Policy"
+#title = "Privacy Policy"
 
-date = 2018-06-28T00:00:00
-draft = true
+#date = 2018-06-28T00:00:00
+#draft = true
 
 # [header]
 # image = ""
