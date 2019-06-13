@@ -52,15 +52,7 @@ Proposal to incorporate SIT feedback to develop restoration strategies using opt
 4:00	    Adjourn
 
 
-## Background Information 
 
-[Background Information on Team Guidelines](https://drive.google.com/file/d/1DJSuOWBipOt819ORTECXvIjAogAb6mxu/view)
-
-[Five Year Restoration Strategy](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
-
-[FY18 Model Activities](https://drive.google.com/file/d/1BlvUrV5pkcqp-CJcp5WFEh7PnxzknSMH/view)
-
-[2019 Priorities Technical Memorandum](https://drive.google.com/file/d/1Ec3qn0Wk-PiygfZm-ZsdnYOUhdRl2sPd/view)
 
 
   
