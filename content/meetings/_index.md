@@ -21,8 +21,8 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cvpiadsm%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Upcoming Meeting
-**Location:** C-1003, Cottage Way, Sacramento, CA [map](https://www.google.com/maps/search/C-1003,+Cottage+Way,+Sacramento,+CA/@38.6031897,-121.3851063,17z/data=!3m1!4b1?hl=en)    
-**Date:** June, 19th 8:30-4:30    
+**Location:** Conference Call    
+**Date:** July 10, 2019   
 **Call-In Number:**     
 +1-415-655-0002  
 Access code: 928 893 604	
