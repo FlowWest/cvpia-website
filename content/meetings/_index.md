@@ -22,34 +22,14 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call    
-**Date:** July 10, 2019   
+**Date:** July 10, 2019 10 am -12 pm  
 **Call-In Number:**     
-+1-415-655-0002  
-Access code: 928 893 604	
++1-415-655-0002     
+Access code: 929 715 832	
 
 ###### Agenda:
 
-8:30–9:00 	Welcome and  introductions as needed
 
-8:30–10:15 	Status of interim Science Coordinator (Cesar/Rod)
-Update on Science Coordinator hiring process (Cesar)
-Update on habitat decay proposal (Rod)
- 
-10:15–10:30	Break
-
-10:30–12:00	Review new calibration results (Jim)
-Review SIT feedback for developing a strategy (Jim)
-Proposal to incorporate SIT feedback to develop restoration strategies using optimal state dependent policies (Jim)
-
-12:00–1:00	Lunch
-
-1:00–2:30	Finalize SIT’s approach to a strategy (All)
-
-2:30–2:45 	Break
-
-2:45–4:00	Discuss the use of the S3 model (Stream Salmonid Simulator) in the Central Valley (John Plumb and Russ Perry)
-
-4:00	    Adjourn
 
 
 

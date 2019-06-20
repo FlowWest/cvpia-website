@@ -25,6 +25,8 @@ exclude_selected = false
 
 **[CVPIA SMD](http://cvpia.scienceintegrationteam.com/meetings/)**     
 Conference call     
-July 10, 2019    
+July 10, 2019 (10 am - 12 pm)   
++1-415-655-0002 (code: 929 715 832)    
+[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#upcoming-meeting)   
 
 
