@@ -27,8 +27,6 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 +1-415-655-0002     
 Access code: 929 715 832	
 
-###### Agenda:
-TBD 
 
 
 
