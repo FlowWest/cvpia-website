@@ -22,7 +22,7 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call    
-**Date:** July 10, 2019 10 am -12 pm  
+**Date:** July 24, 2019 10 am -12 pm  
 **Call-In Number:**     
 +1-415-655-0002     
 Access code: 929 715 832	
