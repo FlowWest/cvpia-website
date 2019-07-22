@@ -23,10 +23,9 @@ list_format = 0
 exclude_selected = false
 +++
 
-**[CVPIA SMD In-person](http://cvpia.scienceintegrationteam.com/meetings/)**     
-Sacramento, CA     
-June 19, 2019    
-8:30 AM - 4:30 PM    
-+1-415-655-0002 (code: 928 893 604)    
-[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#upcoming-meeting)
+**[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**     
+Conference call     
+July 24, 2019 (10 am - 12 pm)   
++1-415-655-0002 (code: 929 715 832)    
+
 

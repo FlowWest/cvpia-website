@@ -20,29 +20,29 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Model Run"
+  title = "Finalize Population Model"
   company = ""
   company_url = ""
   location = "estimated timeframe"
-  date_start = "2019-02-01"
-  date_end = "2019-04-01"
-  description = """Running newly calibrated model and reporting results to SIT"""
+  date_start = "2019-07-01"
+  date_end = "2019-08-01"
+  description = """Finish calibration and begin optimization."""
 
 [[experience]]
-  title = "Accepting Charters"
+  title = "Stakeholder Outreach and Initial Prioritization"
   company = ""
   company_url = ""
   location = "estimated timeframe"
-  date_start = "2019-05-01"
-  date_end = "2019-06-30"
-  description = """Submital period for charters"""
+  date_start = "2019-09-01"
+  date_end = "2019-10-30"
+  description = """Review model inputs and results with local experts and stakeholders. Begin prioritization."""
 
 [[experience]]
-  title = "Calibration"
+  title = "Implementation of 2020 Prioritization"
   company = ""
   company_url = ""
   location = "estimated timeframe"
-  date_start = "2018-12-01"
-  date_end = ""
-  description = """Calibration model for fall, spring, and winter chinook."""
+  date_start = "2019-11-01"
+  date_end = "2020-01-01"
+  description = """Implement recommendations for prioritization and prepare for model updates and monitoring."""
 +++
