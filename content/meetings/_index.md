@@ -26,8 +26,20 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 **Call-In Number:**     
 +1-415-655-0002     
 Access code: 929 715 832	
+**[Join WebEx meeting](https://oregonstate.webex.com/join/duarteadoregonstate.edu)**    
+Access code: 929 715 832
 
-
+## Agenda 
+1.	Status of Science Coordinator (Cesar/Rod)
+2.	Update on watershed expert meetings (Mike U.)
+3.	Update on habitat decay proposal (Rod)
+4.	Update on Predator Contact Points project (Corey/Cyril)
+5.	Update on Temperature Estimation in Tributaries (Mike W./Kirk/Mike U.)
+6.	Update on Data Guidance working group (Mike U./ Sadie/JD)
+7.	Communicating key uncertainties and data gaps (All)
+8.	Discuss the Chinook DSM juvenile delta rearing survival function (All)
+9.	New Business
+ 
 
 
 
