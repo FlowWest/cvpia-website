@@ -22,14 +22,23 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call    
-**Date:** August 7, 2019 10 am -12 pm  
-**Call-In Number:**     
-+1-415-655-0002     
-Access code: 929 715 832	
-**[Join WebEx meeting](https://oregonstate.webex.com/join/duarteadoregonstate.edu)**    
-Access code: 929 715 832
+**Date:** August 7, 2019 10 am -12 pm  	
+**[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
+Meeting ID: 357 102 1423
 
- 
+**Agenda**
+
+1. Status of Science Coordinator (Cesar)
+2. Update on model modification proposal for Managed Wetland Trophic Subsidies (rice field food) (Brett)
+3. Discuss where we are now and where we are going
+    1. A quick review of the Near-term Restoration Strategy development (Jim and Adam)
+    2. CPAR and the Strategy: How are they related? (Cesar, Heather, and Rod)
+    3. Using the DSMs to develop the strategy (Jim and Adam)
+    4. Status of the Chinook and O. mykiss DSMs (Jim and Adam)
+    5. Status of watershed expert meetings (Mike U.)
+    6. Status of the habitat decay proposal (Rod)
+    7. The role of the SIT after the Near-term Restoration Strategy (Cesar, Heather, and Rod)
+4. New Business
 
 
 
