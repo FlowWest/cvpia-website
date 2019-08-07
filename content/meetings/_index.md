@@ -22,14 +22,9 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call    
-**Date:** August 7, 2019 10 am -12 pm  
-**Call-In Number:**     
-+1-415-655-0002     
-Access code: 929 715 832	
-**[Join WebEx meeting](https://oregonstate.webex.com/join/duarteadoregonstate.edu)**    
-Access code: 929 715 832
-
- 
+**Date:** August 21, 2019 10 am -12 pm  	
+**[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
+Meeting ID: 357 102 1423
 
 
 
