@@ -4,7 +4,7 @@ widget = "talks"
 active = true
 date = 2016-04-20T00:00:00
 
-title = "Upcoming Meeting"
+title = "Upcoming Meetings"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -26,6 +26,10 @@ exclude_selected = false
 **[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**     
 Conference call     
 August 7, 2019 (10 am - 12 pm)   
-+1-415-655-0002 (code: 929 715 832)    
+
+**[Expert Outreach](http://cvpia.scienceintegrationteam.com/meetings/)**    
+Type    
+Date
+Location 
 
 
