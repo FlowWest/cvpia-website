@@ -29,6 +29,16 @@ Access code: 929 715 832
 **[Join WebEx meeting](https://oregonstate.webex.com/join/duarteadoregonstate.edu)**    
 Access code: 929 715 832
 
+## Agenda     
+1. Status of the Chinook and O. mykiss DSMs (Jim and Adam)
+2. Status of watershed expert meetings (Mike U.)
+3. Status of the habitat decay proposal (Rod)
+4. A review and discussion of the CPAR list (All)
+5. Update on state-dependent Chinook strategies (Jim and Adam)
+6. New Business
+ 
+
+
  
 
 

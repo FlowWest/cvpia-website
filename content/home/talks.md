@@ -26,6 +26,8 @@ exclude_selected = false
 **[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**     
 Conference call     
 August 7, 2019 (10 am - 12 pm)   
-+1-415-655-0002 (code: 929 715 832)    
++1-415-655-0002 (code: 929 715 832)     
+[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#upcoming-meeting) 
+
 
 
