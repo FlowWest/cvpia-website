@@ -29,7 +29,7 @@ September 11, 2019 (10 am - 12 pm)
 [Join Zoom Meeting](https://oregonstate.zoom.us/j/3571021423)     
 Meeting ID: 357 102 1423 
 
-**[Expert Outreach](http://cvpia.scienceintegrationteam.com/meetings/)**    
+**[Expert Outreach](http://cvpia.scienceintegrationteam.com/meetings/expertoutreach/)**    
 In Person    
 September 9, 2019 (11am - 2pm)    
 [Lodi California] (http://cvpia.scienceintegrationteam.com/meetings/expertoutreach/#location/)
