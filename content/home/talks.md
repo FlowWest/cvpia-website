@@ -32,6 +32,6 @@ Meeting ID: 357 102 1423
 **[Expert Outreach](http://cvpia.scienceintegrationteam.com/meetings/)**    
 In Person    
 September 9, 2019 (11am - 2pm)    
-[Lodi California] (http://cvpia.scienceintegrationteam.com/meetings/expertoutreach/location/)
+[Lodi California] (http://cvpia.scienceintegrationteam.com/meetings/expertoutreach/#location/)
 
 
