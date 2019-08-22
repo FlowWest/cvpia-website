@@ -25,11 +25,13 @@ exclude_selected = false
 
 **[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**     
 Conference call     
-August 7, 2019 (10 am - 12 pm)   
+September 11, 2019 (10 am - 12 pm)       
+[Join Zoom Meeting](https://oregonstate.zoom.us/j/3571021423)     
+Meeting ID: 357 102 1423 
 
 **[Expert Outreach](http://cvpia.scienceintegrationteam.com/meetings/)**    
-Type    
-Date
-Location 
+In Person    
+September 9, 2019 (11am - 2pm)    
+[Lodi California] (http://cvpia.scienceintegrationteam.com/meetings/expertoutreach/location/)
 
 

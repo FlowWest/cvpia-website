@@ -1,15 +1,13 @@
 +++
 title = "CVPIA SDM Meetings"
-
 draft = false  # Is this a draft? true/false
 toc = true  # Show table of contents? true/false
 type = "docs"  # Do not modify.
 
 # Add menu entry to sidebar.
-linktitle = "Overview"
+linktitle = "Overview SDM Meeting"
 [menu.meetings]
 weight = 1 
-
 +++
 
 
@@ -23,13 +21,13 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cvpiadsm%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Upcoming Meeting
-**Location:** Conference Call    
-**Date:** August 7, 2019 10 am -12 pm  
-**Call-In Number:**     
-+1-415-655-0002     
-Access code: 929 715 832	
-**[Join WebEx meeting](https://oregonstate.webex.com/join/duarteadoregonstate.edu)**    
-Access code: 929 715 832
+**Location:** Conference Call        
+**Date:** September 11, 2019 (10am - 12pm)    
+**[Join Zoom Meeting](https://oregonstate.zoom.us/j/3571021423)**     
+**Meeting ID:** 357 102 1423     
+    
+## Agenda   
+Comming Soon 
 
  
 
