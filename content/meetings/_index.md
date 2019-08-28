@@ -24,9 +24,8 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 **Location:** Conference Call    
 **Date:** September 11, 2019 10 am -12 pm  	
 **[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
-Meeting ID: 357 102 1423
-
-
+Meeting ID: 357 102 1423  
+**Agenda:** Coming soon
 
 
 
