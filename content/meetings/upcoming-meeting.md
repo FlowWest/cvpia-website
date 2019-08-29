@@ -10,7 +10,7 @@ location = "Sacramento, CA"
 time_start = 2019-06-19T08:30:00
 time_end = 2019-06-20T15:00:00
 
-agenda = "no current agenda"
+agenda = "Coming Soon"
 call_in = "add call in number" 
 access = "acces code"
 
