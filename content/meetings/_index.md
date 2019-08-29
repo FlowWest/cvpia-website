@@ -24,8 +24,26 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 **Location:** Conference Call    
 **Date:** September 11, 2019 10 am -12 pm  	
 **[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
+<<<<<<< HEAD
 Meeting ID: 357 102 1423  
 **Agenda:** Coming soon
+=======
+Meeting ID: 357 102 1423
+
+## Agenda     
+1. Status of the Chinook and O. mykiss DSMs (Jim and Adam)
+2. Status of watershed expert meetings (Mike U.)
+3. Status of the habitat decay proposal (Rod)
+4. A review and discussion of the CPAR list (All)
+5. Update on state-dependent Chinook strategies (Jim and Adam)
+6. New Business
+ 
+
+
+ 
+
+
+>>>>>>> master
 
 
 
