@@ -27,5 +27,5 @@ exclude_selected = false
 Conference call     
 September 11, 2019 (10 am - 12 pm)   
 **[Join Zoom](https://oregonstate.zoom.us/j/3571021423    )**
-Meeting ID: 357 102 1423
-
+Meeting ID: 357 102 1423  
+**Agenda:** Coming soon 
