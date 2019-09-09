@@ -1,23 +1,23 @@
 +++
-title = "Explore SIT model"
+title = "Habitat Modeling Availability"
 date = 2015-09-01T00:00:00
 draft = false
 share = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sadie Gill"]
-summary = "CVPIA DSM submodels"
+summary = "CVPIA Watersheds Habitat Modeling Availability"
 
 
 # Abstract and optional shortened version.
-description = "Interactive web application to explore the submodels with in the CVPIA Science Integration Team Decision Support Model"
+description = "Interactive web application to explore the available habitat modeling used within the CVPIA Science Integration Team Decision Support Model"
 abstract_short = ""
 tags = ["Shiny App"]
 
 
 # Links (optional).
-url_app = "https://flowwest.shinyapps.io/Explore-SIT-Model/"
-url_code = "https://github.com/flowwest/Explore-SIT-Model/"
+url_app = "https://flowwest.shinyapps.io/habitat-modeling-availability/"
+url_code = "https://github.com/flowwest/habitat-modeling-availability/"
 
 
 # Featured image
