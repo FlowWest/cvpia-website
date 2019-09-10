@@ -28,7 +28,10 @@ Meeting ID: 357 102 1423
 
 ## Agenda
 
-Coming soon
+1.       Status of watershed expert meetings (Mike U.)
+2.       A review and discussion of the CPAR list (All)
+3.       Update on state-dependent Chinook strategies (Jim and Adam)
+4.       New Business
 
 
 

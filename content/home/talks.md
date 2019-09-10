@@ -28,4 +28,8 @@ Conference call
 September 11, 2019 (10 am - 12 pm)   
 **[Join Zoom](https://oregonstate.zoom.us/j/3571021423    )**
 Meeting ID: 357 102 1423  
-**Agenda:** Coming soon 
+**Agenda:**         
+1.       Status of watershed expert meetings (Mike U.)    
+2.       A review and discussion of the CPAR list (All)    
+3.       Update on state-dependent Chinook strategies (Jim and Adam)    
+4.       New Business
