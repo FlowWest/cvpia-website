@@ -28,4 +28,4 @@ Conference call
 September 25, 2019 (10 am - 12 pm)   
 **[Join Zoom](https://oregonstate.zoom.us/j/3571021423    )**
 Meeting ID: 357 102 1423  
-**[Agenda](http://cvpia.scienceintegrationteam.com/meetings/)**    
+**[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#agenda )** 
