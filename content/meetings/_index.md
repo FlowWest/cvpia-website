@@ -27,7 +27,13 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 Meeting ID: 357 102 1423  
 
 ## Agenda    
-Coming soon
+
+1. Update on predator contact points (Cyril, Allison, and Corey)
+2. Update on watershed expert meetings (Mike Urkov)
+3. Discuss Battle Creek winter run proposal (Matt)
+4. Discuss proposed rulesets for restoration strategy development (All)
+5. Review example output that the SIT will be provided with to develop strategies (All)
+6. New Business
 
 
 
