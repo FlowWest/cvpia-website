@@ -21,8 +21,8 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cvpiadsm%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Upcoming Meeting
-**Location:** Conference Call    
-**Date:** October 9, 2019 10 am -12 pm  	
+**Location:** In Person Meeting    
+**Date:** October 24, 2019 (8:30 am - 4 pm) and October 25, 2019 (8:30 am - 12pm) 	
 **[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
 Meeting ID: 357 102 1423  
 
