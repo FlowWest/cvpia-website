@@ -27,7 +27,7 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 Meeting ID: 357 102 1423  
 
 ## Agenda    
-Coming soon
+**[Download agenda](https://cvpia-meeting-slides.s3-us-west-2.amazonaws.com/Agenda+CVPIA+SIT+October+2019.docx)**
 
 
 

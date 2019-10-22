@@ -32,3 +32,5 @@ The models represent an initial agency effort, and are subject to revision and r
 [2019 Priorities Technical Memorandum for FY2020](https://drive.google.com/file/d/1Ec3qn0Wk-PiygfZm-ZsdnYOUhdRl2sPd/view)
 
 [Listen to the River- CVPIA Review- Fisheries Report](https://drive.google.com/file/d/1vprkjLoUsYCNhtCAfUscvxsyf5jFjUcn/view)
+
+[Draft Proposed CVPIA Science Integration Team Monitoring Guidelines](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Proposed+CVPIA+project+related+monitoring.pdf)
