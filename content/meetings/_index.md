@@ -21,14 +21,17 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cvpiadsm%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Upcoming Meeting
-**Location:** In Person Meeting    
-**Date:** October 24, 2019 (8:30 am - 4 pm) and October 25, 2019 (8:30 am - 12pm) 	
+**Location:** Conference Call    
+**Date:** November 06, 2019 (10 am - 12 pm) 	
 **[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
 Meeting ID: 357 102 1423  
 
 ## Agenda    
-**[Download agenda](https://cvpia-meeting-slides.s3-us-west-2.amazonaws.com/Agenda+CVPIA+SIT+October+2019.docx)**     
-**[Fall, Winter, and Spring-run Chinook Salmon Simulations](https://drive.google.com/open?id=1iODoBEZU5gma66YjL8ZeUOxcQURTpzJA)**
+1. Update on S3 Modeling (John Plumb)
+2. Review Timeline (Jim and Adam)
+3. Review Feedback for Monitoring Data Guidance (Jim and Adam)
+4. Update on Outstanding Proposals
+5. New business
 
 
 
