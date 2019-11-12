@@ -21,17 +21,13 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cvpiadsm%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Upcoming Meeting
-**Location:** Conference Call    
-**Date:** November 06, 2019 (10 am - 12 pm) 	
+**Location:** 2800 Cottage Way C-1003, Sacramento, CA 95825          
+**Date:** November 20, 2019 (8:30 AM- 4:00 PM) and November 21, 2019 (8:30 AM- 12:00 PM)          
 **[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
 Meeting ID: 357 102 1423  
 
 ## Agenda    
-1. Update on S3 Modeling (John Plumb)
-2. Review Timeline (Jim and Adam)
-3. Review Feedback for Monitoring Data Guidance (Jim and Adam)
-4. Update on Outstanding Proposals
-5. New business
+Coming soon
 
 
 
