@@ -24,9 +24,8 @@ exclude_selected = false
 +++
 
 **[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**     
-In-person meeting    
-November 20, 2019 (8:30 AM- 4:00 PM)                    
-November 21, 2019 (8:30 AM- 12:00 PM)  
+Conference Call    
+December 11, 2019 (10 AM- 12 PM)                    
 **[Join Zoom](https://oregonstate.zoom.us/j/3571021423    )**
 Meeting ID: 357 102 1423  
 **[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#agenda )** 
