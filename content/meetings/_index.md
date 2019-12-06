@@ -27,7 +27,11 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 Meeting ID: 357 102 1423  
 
 ## Agenda    
-Coming soon
+1. Update on Science Coordinator (Cesar)
+2. Update on *O. mykiss* and Sturgeon PWT meetings (Adam and Jim)
+3. Review Responses on Chinook Salmon DSM Grading Sheets (Adam and Jim)
+4. Review 2020 Schedule (Adam and Jim)
+5. New Business
 
 
 
