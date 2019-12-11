@@ -25,7 +25,7 @@ exclude_selected = false
 
 **[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**     
 Conference Call    
-December 11, 2019 (10 AM- 12 PM)                    
+January 15, 2020 (10 AM- 12 PM)                    
 **[Join Zoom](https://oregonstate.zoom.us/j/3571021423    )**
 Meeting ID: 357 102 1423  
 **[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#agenda )** 
