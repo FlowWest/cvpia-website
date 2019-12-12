@@ -22,16 +22,12 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call        
-**Date:** December 11, 2019 (10 AM- 12 PM)        
+**Date:** January 15, 2020 (10 AM- 12 PM)        
 **[Join Zoom meeting](https://oregonstate.zoom.us/j/3571021423)**    
 Meeting ID: 357 102 1423  
 
 ## Agenda    
-1. Update on Science Coordinator (Cesar)
-2. Update on *O. mykiss* and Sturgeon PWT meetings (Adam and Jim)
-3. Review Responses on Chinook Salmon DSM Grading Sheets (Adam and Jim)
-4. Review 2020 Schedule (Adam and Jim)
-5. New Business
+Coming soon
 
 
 
