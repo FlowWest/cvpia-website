@@ -20,6 +20,8 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cvpiadsm%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
+[Download Calendar for Outlook](https://cvpia-meeting-slides.s3-us-west-2.amazonaws.com/basic+(1).ics)
+
 ## Upcoming Meeting
 **Location:** Conference Call        
 **Date:** January 15, 2020 (10 AM- 12 PM)        
