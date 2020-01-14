@@ -29,7 +29,15 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 Meeting ID: 357 102 1423  
 
 ## Agenda    
-Coming soon
+1. Near-term Restoration Strategy          
+    a. Comment process / timeline          
+    b. Review outline          
+    c. Subgroups          
+    d. Appendices          
+    e. Addenda          
+2. Model Archiving
+3. 2020 SIT Schedule
+
 
 
 
