@@ -23,7 +23,7 @@ SDM provides a formal, documented, and open source process to develop quantifiab
 The models represent an initial agency effort, and are subject to revision and refinement. Reclamation and the Service seek broad support and buy-in for resource decisions by facilitating stakeholder participation in the process of formulating models. The effort described here will support continuous improvement of SDM within, between, and outside of the stakeholder agencies, and ultimately achieve the CVPIA fish doubling goal.
 
 ## Background Information    
-[Background Information on Team Guidelines](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA+Science+Integration+Team+Guidelines+January+2020+(2).docx)
+[Background Information on Team Guidelines](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA%2BScience%2BIntegration%2BTeam%2BGuidelines%2BJanuary%2B2020.pdf)
 
 [Five Year Restoration Strategy](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
 
