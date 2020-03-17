@@ -29,16 +29,25 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 Meeting ID: 367 027 2302  
 
 ## Agenda    
-Coming soon
-
-
-
-
-  
-
-
-
-
-
-
-
+1. Update on Science Coordinator position hire (Cesar)      
+2. Review SIT 2020 Schedule (Adam/Jim)      
+3. Update on the Near-term Restoration Strategy
+    1. Timeline for release (Cesar, Heather, and Rod)
+    2. Process for implementation (Cesar, Heather, and Rod)
+    3. Update on Chinook Salmon DSM model archiving (Adam, Jim, and Mike U.)
+4. Reminder of subgroups, tasks, and group membership with expected larger report out at April 2020 meeting (Mike U.)
+    1. Predator Contact Points and Prevalence - Cyril, Alison, and Corey
+    2. Update hatchery operations and returns - Rod
+    3. Food Growth (Temperature & Food Effect on Juvenile Growth)
+        1. Food for Fish I - Brett and Rene/Jacob
+        2. Food for Fish II - Rene/Jacob
+    4. Habitat Estimates and change
+        1. Winter run DSM inputs for battle Creek - Matt/FlowWest
+        2. Habitat change - Rod
+        3. Incorporate side channel rearing habitats into DSMs - Mike Berry
+        4. Incorporate ephemeral triburaries into DSMs - Mike Berry
+        5. New CALSIM - Mike U. 
+5. Discuss expectations for April 2020 In-person meeting (All)
+    1. Subgroup report out
+    2. Implementation and monitoring results from the Sacramento River (Mandy B. and Susasn S.)
+6. New Business (All)
