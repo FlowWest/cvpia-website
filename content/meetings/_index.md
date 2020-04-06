@@ -71,13 +71,11 @@ Outstanding proposals (~15 min ea)
 Reporting out from sub-groups (~20 min ea)                    
 1. Fish for food (R. Henery)                               
 2. Fish food growth (B. Harvey, M. Beakes, C. Phillis)                  
-3. Habitat (M. Tompkins, C. Hammersmark, R. Wittler)               
-    - Charge of the habitat subgroup                         
-    - Example of improved habitat input- Hammer/Yuba                   
-    - Call for participants               
-    - Scope to plan to deliver on four charges, follow up discussion on how to improve hydrology input                                                         
-4. Scope out plan to deliver on four charges (tasks, schedule, costs), follow up discussion on how to improve hydrology input                                                        
-              
+3. Habitat (M. Tompkins, C. Hammersmark, R. Wittler)                                                    
+    &ensp;- Charge of the habitat subgroup                      
+    &ensp;- Example of improved habitat input- Hammer/Yuba                   
+    &ensp;- Call for participants               
+    &ensp;- Scope to plan to deliver on four charges, follow up discussion on how to improve hydrology input              
 
 **15:30-15:45**               
 Break
@@ -87,8 +85,8 @@ Reporting out from sub-groups (cont.)
 1. Winter run DSM model inputs for Battle Creek (FlowWest, M. Brown)                   
 2. New CalSim runs (M. Urkov)                    
 3. Monitoring                                                    
-    -Southport (M. Urkov, R. Wittler, M Beakes)                  
-    -Chico State (M. Banet)                     
+&ensp;- Southport (M. Urkov, R. Wittler, M Beakes)                  
+&ensp;- Chico State (M. Banet)                     
 4. Predator contact points (C. Phillis)                
 
 **16:30-17:00**               
