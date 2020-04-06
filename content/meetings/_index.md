@@ -29,4 +29,67 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 Meeting ID: 367 027 2302  
 
 ## Agenda    
-Coming soon
+**8:30-9:00**                                                                        
+Welcome and introductions               
+
+**9:00-9:30**                      
+Implementation of Near-term Restoration Strategy (Heather/Cesar)          
+1. Modifications to draft document and timelines (M. Urkov)         
+2. Existing obligations          
+3. Relationship to LTO BiOp          
+
+**9:30-10:30**                    
+Prioritization for FY2021 (information needs)          
+1. Chinook salmon research          
+2. Chinook salmon monitoring          
+3. Habitat estimates          
+4. Habitat change over time          
+
+**10:30-10:45**           
+Break          
+
+**10:45-11:15**           
+Code Review (Flow West)          
+
+**11:15-12:00**           
+Model revisions           
+1. Chinook: late-fall                 
+2. O. Mykiss demographics (M. Beakes)          
+3. Sturgeon information needs          
+
+**12:00-13:00**            
+Lunch Break          
+
+**13:00-14:00**           
+Outstanding proposals (~15 min ea)           
+1. Side channel rearing habitat (M. Berry)           
+2. Ephemeral tributaries (M. Brown, M. Berry)          
+3. Yuba fish (B. Ellrott)                        
+4. Hatchery operations and returns (R. Wittler)                    
+
+**14:00-15:30**                                     
+Reporting out from sub-groups (~20 min ea)                    
+1. Fish for food (R. Henery)                               
+2. Fish food growth (B. Harvey, M. Beakes, C. Phillis)                  
+3. Habitat (M. Tompkins, C. Hammersmark, R. Wittler)               
+    - Charge of the habitat subgroup                         
+    - Example of improved habitat input- Hammer/Yuba                   
+    - Call for participants               
+    - Scope to plan to deliver on four charges, follow up discussion on how to improve hydrology input                                                         
+4. Scope out plan to deliver on four charges (tasks, schedule, costs), follow up discussion on how to improve hydrology input                                                        
+              
+
+**15:30-15:45**               
+Break
+
+**15:45-16:30**                       
+Reporting out from sub-groups (cont.)                                   
+1. Winter run DSM model inputs for Battle Creek (FlowWest, M. Brown)                   
+2. New CalSim runs (M. Urkov)                    
+3. Monitoring                                                    
+    -Southport (M. Urkov, R. Wittler, M Beakes)                  
+    -Chico State (M. Banet)                     
+4. Predator contact points (C. Phillis)                
+
+**16:30-17:00**               
+Timelines and Next steps
