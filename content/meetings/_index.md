@@ -30,25 +30,28 @@ Meeting ID: 367 027 2302
 
 ## Agenda  
 1. Update from subgroups   
-2. Habitat (Rod et al.)
-  * WUA to modeled suitability                                      
-  * Habitat decay/change                                        
-  * Side channel rearing habitats                                                  
-  * Ephemeral tributaries  
-3. Monitoring                                                  
-  * Clarification on demographic information needs (Jim and Adam et al.)
-  * Process moving forward (Cesar, Heather, and Rod)
-4. Food and fish
-  * Food for fish (Rene)
-  * Fish food growth (Brett)
-5. Hatchery operations (Rod)
-6. New CalSim runs (Mike Urkov)
-7. Data Guidance / EDI / FAIR (Sadie)
-8. Update on Chinook Salmon DSMs
-9. Code release (Jim and Adam)
-10. Code modifications (Sadie and Emanuel)
-11. Late fall run (Jim and Adam)
-12. Winter run DSM inputs (FlowWest)
-13. New Business
-14. Delta Science Update (Dylan Stern)
-15. USFWS / USBR Updates
+    * Habitat (Tompkins)
+       * WUA to modeled suitability                                      
+       * Habitat decay/change                                        
+       * Side channel rearing habitats                                                  
+       * Ephemeral tributaries  
+    * Monitoring                                                  
+       * Clarification on demographic information needs (Jim and Adam et al.)
+       * Process moving forward (Cesar, Heather, and Rod)
+    * Food and fish
+       * Food for fish (Rene and Rod)
+       * Fish food growth (Brett)
+    * Hatchery operations (Rod)
+    * New CalSim runs (Mike Urkov)
+    * Data Guidance / EDI / FAIR (Sadie)
+2. Update on Chinook Salmon DSMs
+     1. Code release (Jim and Adam)
+     2. Code modifications (Sadie and Emanuel)
+     3. Late fall run (Jim and Adam)
+     4. Winter run DSM inputs (FlowWest)
+3. Near-term Restoration Strategy
+     1. Finalization process (Mike Urkov)
+     2. Annual review
+4. New Business
+     1. Delta Science Update (Dylan Stern)
+     2. USFWS / USBR Updates
