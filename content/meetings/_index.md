@@ -25,7 +25,10 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 ## Upcoming Meeting
 **Location:** Conference Call        
 **Date:** July 8, 2020      
-**[Join Zoom meeting](https://oregonstate.zoom.us/j/3670272302)**    
+**[Join Zoom meeting](https://oregonstate.zoom.us/j/3670272302)**   
+**Phone Dial-In Information**           
+        +1 669 900 6833 US (San Jose)        
+        +1 929 205 6099 US (New York)           
 Meeting ID: 367 027 2302  
 
 ## Agenda  
