@@ -25,7 +25,7 @@ exclude_selected = false
 
 **[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**     
 Conference Call    
-July 8, 2020                  
+September 16, 2020                  
 **[Join Zoom](https://oregonstate.zoom.us/j/3670272302    )**
 Meeting ID: 367 027 2302  
 **[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#agenda )** 
