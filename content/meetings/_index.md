@@ -25,38 +25,8 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 ## Upcoming Meeting
 **Location:** Conference Call        
 **Date:** September 16, 2020      
-**[Join Zoom meeting](https://oregonstate.zoom.us/j/3670272302)**   
-**Phone Dial-In Information**           
-        +1 669 900 6833 US (San Jose)        
-        +1 929 205 6099 US (New York)           
-Meeting ID: 367 027 2302  
+**[Join Microsoft Teams Meeting](https://www.google.com/url?q=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_Mzg4YTI2MzMtMzZhNi00ZTRhLTk0ZWYtMDFmODljMGY0NGU2%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220693b5ba-4b18-4d7b-9341-f32f400a5494%2522%252c%2522Oid%2522%253a%25222c282e39-1152-42b7-8968-6d04c31f2047%2522%257d&sa=D&ust=1596923250145000&usg=AOvVaw2d8zCqYSG6VCzz8u54v_AG)**   
+
 
 ## Agenda  
-1. Update from subgroups   
-    * Habitat (Tompkins)
-       * WUA to modeled suitability                                      
-       * Habitat decay/change                                        
-       * Side channel rearing habitats                                                  
-       * Ephemeral tributaries  
-    * Monitoring                                                  
-       * Clarification on demographic information needs (Jim and Adam et al.)
-       * Process moving forward (Cesar, Heather, and Rod)
-    * Food and fish
-       * Food for fish (Rene and Rod)
-       * Fish food growth (Brett)
-    * Predation/ALAN (Alison and Corey)
-      * [Map](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Predation+with+ALAN+Map+SOW.docx) 
-    * Hatchery operations (Rod)
-    * New CalSim runs (Mike Urkov)
-    * Data Guidance / EDI / FAIR (Sadie)
-2. Update on Chinook Salmon DSMs
-     1. Code release (Jim and Adam)
-     2. Code modifications (Sadie and Emanuel)
-     3. Late fall run (Jim and Adam)
-     4. Winter run DSM inputs (FlowWest)
-3. Near-term Restoration Strategy
-     1. Finalization process (Mike Urkov)
-     2. Annual review
-4. New Business
-     1. Delta Science Update (Dylan Stern)
-     2. USFWS / USBR Updates
+Coming soon
