@@ -29,30 +29,32 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 
 ## Agenda  
-**10:00-10:10 AM**                  
-1. Meeting Kickoff and Agenda Review (Megan Cook, FWS)              
+**10:00-10:10 AM**    
+Meeting Kickoff (Megan Cook, FWS)               
+1. Agenda Review            
 2. Introduce CVPIA Science Coordinator              
 
-**10:10-10:30 AM**                  
-1. Near-term Restoration Strategy (Mike Urkov, FlowWest)                     
+**10:10-10:25 AM**                  
+1. Near-term Restoration Strategy (NTRS) (Mike Urkov, FlowWest)                     
 
-**10:30-10:45 AM**      
-1. Implementation Schedule ffor Near-term Restoration Strategy (Megan Cook, FWS)        
+**10:25-10:40 AM**      
+1. 5-year Schedule for Near-term Restoration adaption (Megan Cook, FWS)        
 
-**11:15-11:30 AM**          
+**10:40-11:20 AM**          
 1. Proposals for Model Changes (Jim Peterson- USGS, Adam Duarte- USFS)
 
-* Habitat Inputs (Mark Tompkins, FlowWest)              
-* Survival in the Delta (Cyril Michel, NMFS)                  
 * Food 4 Fish, (Rodd Wittler and Mike Beakes, BOR)        
+* Habitat Inputs (Mark Tompkins, FlowWest)              
+* Survival in the Delta (Cyril Michel, NMFS)       
+* Survival in Sac River (Cyril Michel, NMFS)           
 
-**11:15-11:30 AM**              
+**11:20-11:35 AM**              
 1. Data Guidance/EDI Demonstration (Sadie Gill, FlowWest)                
 
-**11:30-11:45 AM**          
+**11:35-11:50 AM**          
 1. Update on Butte/Sutter Bypass Survival Studies (Flora Cordoloeani, NOAA)                 
 
-**11:45-12:00 PM**                  
+**11:50 AM-12:00 PM**                  
 1. Prep for October SIT Meeting (Megan Cook- FWS, Jim Peterson- USGS, Adam Duarte- USFS)                          
 
 * Agenda Overview                       
