@@ -35,7 +35,7 @@ Meeting Kickoff (Megan Cook, FWS)
 2. Introduce CVPIA Science Coordinator              
 
 **10:10-10:25 AM**                  
-1. Near-term Restoration Strategy (NTRS) (Mike Urkov, FlowWest) **Document coming soon**                
+1. Near-term Restoration Strategy (NTRS) (Mike Urkov, FlowWest) [Document](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Near-term+Restoration+Strategy+-+September+2020.pdf)             
 
 **10:25-10:40 AM**      
 1. 5-year Schedule for Near-term Restoration adaption (Megan Cook, FWS) [Document](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Proposed-NTRS-Schedule_DRAFT.docx)     
