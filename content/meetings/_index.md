@@ -35,24 +35,24 @@ Meeting Kickoff (Megan Cook, FWS)
 2. Introduce CVPIA Science Coordinator              
 
 **10:10-10:25 AM**                  
-1. Near-term Restoration Strategy (NTRS) (Mike Urkov, FlowWest)                     
+1. Near-term Restoration Strategy (NTRS) (Mike Urkov, FlowWest) **Document coming soon**                
 
 **10:25-10:40 AM**      
-1. 5-year Schedule for Near-term Restoration adaption (Megan Cook, FWS)        
+1. 5-year Schedule for Near-term Restoration adaption (Megan Cook, FWS) [Document](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Proposed-NTRS-Schedule_DRAFT.docx)     
 
 **10:40-11:20 AM**          
 1. Proposals for Model Changes (Jim Peterson- USGS, Adam Duarte- USFS)
 
-* Food 4 Fish, (Rodd Wittler and Mike Beakes, BOR)        
-* Habitat Inputs (Mark Tompkins, FlowWest)              
-* Survival in the Delta (Cyril Michel, NMFS)       
-* Survival in Sac River (Cyril Michel, NMFS)           
+* Food 4 Fish, (Rodd Wittler and Mike Beakes, BOR) [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-Proposal_31July2020+_Reassignment-Habitat-Amts-Based-on-Fate-of-Trophic-Subsidies.docx)               
+* Habitat Inputs (Mark Tompkins, FlowWest) [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT+proposal+habitat+inputs_for_distribution_and_review.docx)                       
+* Survival in the Delta (Cyril Michel, NMFS) [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal_Delta-temp.docx), **Supporting Manuscript coming soon**      
+* Survival in Sac River (Cyril Michel, NMFS), [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal_Sac-flow.docx), [Supporting Manuscript](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/20200630_Flow_threshold_paper_ecosphere.pdf)           
 
 **11:20-11:35 AM**              
-1. Data Guidance/EDI Demonstration (Sadie Gill, FlowWest)                
+1. Data Guidance/EDI Demonstration (Sadie Gill, FlowWest) **Document coming soon**              
 
 **11:35-11:50 AM**          
-1. Update on Butte/Sutter Bypass Survival Studies (Flora Cordoloeani, NOAA)                 
+1. Update on Butte/Sutter Bypass Survival Studies (Flora Cordoloeani, NOAA) [Slides](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SutterBypass_Cordoleani.pptx), [Supporting Report](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Sutter2019_CVPIAReport.pdf)                 
 
 **11:50 AM-12:00 PM**                  
 1. Prep for October SIT Meeting (Megan Cook- FWS, Jim Peterson- USGS, Adam Duarte- USFS)                          
