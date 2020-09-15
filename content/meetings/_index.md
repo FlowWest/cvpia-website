@@ -49,7 +49,7 @@ Meeting Kickoff (Megan Cook, FWS)
 * Survival in Sac River (Cyril Michel, NMFS), [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal_Sac-flow.docx), [Supporting Manuscript](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/20200630_Flow_threshold_paper_ecosphere.pdf)           
 
 **11:20-11:35 AM**              
-1. Data Guidance/EDI Demonstration (Sadie Gill, FlowWest) **Document coming soon**              
+1. Data Guidance/EDI Demonstration (Sadie Gill, FlowWest) [Document](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA+Data+Guidance(4).pdf)             
 
 **11:35-11:50 AM**          
 1. Update on Butte/Sutter Bypass Survival Studies (Flora Cordoloeani, NOAA) [Slides](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SutterBypass_Cordoleani.pptx), [Supporting Report](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Sutter2019_CVPIAReport.pdf)                 
