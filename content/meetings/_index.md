@@ -45,7 +45,7 @@ Meeting Kickoff (Megan Cook, FWS)
 
 * Food 4 Fish, (Rodd Wittler and Mike Beakes, BOR) [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-Proposal_31July2020+_Reassignment-Habitat-Amts-Based-on-Fate-of-Trophic-Subsidies.docx)               
 * Habitat Inputs (Mark Tompkins, FlowWest) [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT+proposal+habitat+inputs_for_distribution_and_review.docx)                       
-* Survival in the Delta (Cyril Michel, NMFS) [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal_Delta-temp.docx), **Supporting Manuscript coming soon**      
+* Survival in the Delta (Cyril Michel, NMFS) [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal_Delta-temp.docx), [Supporting Manuscript](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Michel-et-al_2020_Ecosphere_Fish-predation-landscape-scale.pdf)      
 * Survival in Sac River (Cyril Michel, NMFS), [Proposal](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal_Sac-flow.docx), [Supporting Manuscript](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/20200630_Flow_threshold_paper_ecosphere.pdf)           
 
 **11:20-11:35 AM**              
