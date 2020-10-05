@@ -29,4 +29,101 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 
 ## Agenda  
-Coming soon
+
+## **Day One: October 14, 2020, 9:00am–4:00pm**
+
+### 9:00-9:10
+#### Meeting Kickoff and Agenda Review (Megan Cook, FWS)
+**Expected Outcome:**       
+Review agenda, introduce new Science Coordinator, and welcome new SIT members.
+
+### 9:10-9:25
+#### Near-term Restoration Strategy (Mike Urkov)
+**Expected Outcome**        
+1. Present final NTRS primary takeaways.        
+2. Summarize addenda received.
+
+### 9:25-9:55
+#### Finalize 5-year Schedule for Near-term Restoration Strategy (Megan Cook, FWS)
+**Expected Outcome**        
+1. Discuss the proposed schedule for SIT processes and products FY21–FY25, including revisions based on feedback received.      
+2. SIT has a very good picture of what’s happening over the next year to five years.
+
+### 9:55-10:05 
+#### Break
+
+### 10:05-11:35
+#### Subgroup Reports (Jim Peterson, USGS and Adam Duarte, USFS)
+*15 min each- 10 min present, 5 min discussion*     
+1. Survival in the Delta – Cyril Michel (NMFS)                      
+2. Survival in Sac River– Cyril Michel (NMFS)       
+3. (unfunded) Habitat Inputs – Mark Tompkins (Flow West)        
+*Informational Updates*     
+4. Predator Contact Points – Cyril Michel (NOAA)         
+5. (unfunded) Salmon Demographics – Mike Beakes (USBR)      
+6. Food 4 Fish – Rod Wittler and Mike Beakes (USBR)  
+
+**Expected Outcome:**       
+1. Receive guidance from the SIT on the current set of model change proposals.      
+2. Updates provided from the Subgroups. 
+
+### 11:35-12:30
+#### Lunch Break
+
+### 12:30-1:00
+#### Comparison of NTRS Priorities with Funded Actions (Mike Urkov and Rod Wittler, USBR)
+* Overview of funded actions, grouped by watershed or topic
+
+**Expected Outcome:**       
+Provide overview and progress of ongoing CVPIA work in the context of final NTRS priorities.
+
+### 1:00-1:40
+#### Buffer Time for Any Unresolved Discussions
+
+### 1:40-1:50
+#### Break
+
+### 1:50-2:20
+#### Briefing from NMFS (Howard Brown, NMFS)
+**Expected Outcome:**       
+Hear from NMFS about elements in the Biological Opinion that might be a good fit for CVPIA.
+
+### 2:20-2:50 (David Mooney, USBR)
+#### Briefing on CVPIA Long-term Operation (LTO)
+**Expected Outcome:**       
+Hear from Reclamation Bay-Delta Office management on new LTO structure and where CVPIA and SIT fits in.
+
+### 2:50-3:10 
+*10 min each*   
+    
+* Sacramento River Science Partnership (Denise Reed)        
+* Coordinated Salmon Science Plan (Bruce DiGennaro)
+
+**Expected Outcome:**       
+SIT provided with introductory briefing on SRSP and CSSP to share information on the partnerships, their focus, and approach to science planning.
+
+### 3:10-3:15 (Megan Cook, FWS)
+#### Preview of Day Two
+
+### 3:15
+#### Adjourn
+
+
+## **Day Two: October 15, 2020, 9:00am–12:00pm**      
+
+### 9:00-9:05 (Megan Cook, FWS)
+#### Meeting Kickoff and Agenda Review
+
+### 9:05-9:20 (Jim Peterson, USGS and Adam Duarte, USFS)
+#### Monitoring Requirements
+
+**Expected Outcome:**       
+Review monitoring requirements (3-tier system)
+
+### 9:20-9:50 (Sadie Gill, FlowWest)
+#### Data Guidance/EDI Demonstration
+
+**Expected Outcomes:**      
+1. Re-affirmation of Data Guidance      
+2. SIT provided demo of EDIutils    package.        
+3. SIT will have an overview data management and data stewardship going forward.        
