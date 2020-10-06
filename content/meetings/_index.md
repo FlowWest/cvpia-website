@@ -30,82 +30,80 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Agenda  
 
-## **Day One: October 14, 2020, 9:00am–4:00pm**
+## **Day One: October 14, 2020, 9:00am–3:30pm**
 
 ### 9:00-9:10
 #### Meeting Kickoff and Agenda Review (Megan Cook, FWS)
 **Expected Outcome:**       
 Review agenda, introduce new Science Coordinator, and welcome new SIT members.
 
-### 9:10-9:25
+### 9:10-9:30
 #### Near-term Restoration Strategy (Mike Urkov)
 **Expected Outcome**        
 1. Present final NTRS primary takeaways.        
 2. Summarize addenda received.
 
-### 9:25-9:55
+### 9:30-10:00
 #### Finalize 5-year Schedule for Near-term Restoration Strategy (Megan Cook, FWS)
 **Expected Outcome**        
 1. Discuss the proposed schedule for SIT processes and products FY21–FY25, including revisions based on feedback received.      
 2. SIT has a very good picture of what’s happening over the next year to five years.
 
-### 9:55-10:05 
+### 10:00-10:10
 #### Break
 
-### 10:05-11:35
+### 10:10-11:40
 #### Subgroup Reports (Jim Peterson, USGS and Adam Duarte, USFS)
-*15 min each- 10 min present, 5 min discussion*     
+*15 min each- 10 min present, 5 min discussion*   
+Proposal Decisions  
 1. Survival in the Delta – Cyril Michel (NMFS)                      
 2. Survival in Sac River– Cyril Michel (NMFS)       
-3. (unfunded) Habitat Inputs – Mark Tompkins (Flow West)        
+3. Habitat Inputs – Mark Tompkins (Flow West)        
 *Informational Updates*     
 4. Predator Contact Points – Cyril Michel (NOAA)         
-5. (unfunded) Salmon Demographics – Mike Beakes (USBR)      
+5. Salmon Demographics – Mike Beakes (USBR)      
 6. Food 4 Fish – Rod Wittler and Mike Beakes (USBR)  
 
 **Expected Outcome:**       
 1. Receive guidance from the SIT on the current set of model change proposals.      
 2. Updates provided from the Subgroups. 
 
-### 11:35-12:30
+### 11:40-12:40
 #### Lunch Break
 
-### 12:30-1:00
+### 12:40-1:10
 #### Comparison of NTRS Priorities with Funded Actions (Mike Urkov and Rod Wittler, USBR)
 * Overview of funded actions, grouped by watershed or topic
 
 **Expected Outcome:**       
 Provide overview and progress of ongoing CVPIA work in the context of final NTRS priorities.
 
-### 1:00-1:40
+### 1:10-1:50
 #### Buffer Time for Any Unresolved Discussions
 
-### 1:40-1:50
+### 1:50-2:10
 #### Break
 
-### 1:50-2:20
-#### Briefing from NMFS (Howard Brown, NMFS)
+### 2:10-2:50
+#### Briefing on Central Valley Project Long-term Operation (LTO), Biological Opinion, CVPIA Implementation (David Mooney, USBR, Garwin Yip, NMFS, and Donnie Ratcliff, FWS)
 **Expected Outcome:**       
-Hear from NMFS about elements in the Biological Opinion that might be a good fit for CVPIA.
+Hear updates and perspectives from agency leadership 
 
-### 2:20-2:50 (David Mooney, USBR)
-#### Briefing on CVPIA Long-term Operation (LTO)
-**Expected Outcome:**       
-Hear from Reclamation Bay-Delta Office management on new LTO structure and where CVPIA and SIT fits in.
 
-### 2:50-3:10 
-*10 min each*   
-    
+### 2:50-3:20 
+#### SIT and Other Science Partnerships
+*15 min each* 
+
 * Sacramento River Science Partnership (Denise Reed)        
 * Coordinated Salmon Science Plan (Bruce DiGennaro)
 
-**Expected Outcome:**       
+**Expected Outcome:**
 SIT provided with introductory briefing on SRSP and CSSP to share information on the partnerships, their focus, and approach to science planning.
 
-### 3:10-3:15 (Megan Cook, FWS)
+### 3:20-3:30 (Megan Cook, FWS)
 #### Preview of Day Two
 
-### 3:15
+### 3:30
 #### Adjourn
 
 
@@ -127,3 +125,34 @@ Review monitoring requirements (3-tier system)
 1. Re-affirmation of Data Guidance      
 2. SIT provided demo of EDIutils    package.        
 3. SIT will have an overview data management and data stewardship going forward.        
+
+### 9:50-11:10 (with a 10 min break)
+#### Project Updates (Monitoring and Data Focus)
+1. Clear Creek Phase 2A & 3C – Derek Rupert (USBR)
+2. Yuba Hallwood – Paul Cadrett (FWS)
+3. Stanislaus – JD Wikert (FWS)
+4. Stanislaus gravel – John Hannon (USBR)
+5. American River – John Hannon (USBR)
+6. Upper Sac – John Hannon (USBR)
+
+**Expected Outcome:**       
+SIT provided with project updates. Presentations will:      
+1. Provide project objectives       
+2. Define project monitoring effort and relevance to SIT Monitoring Tiers               
+3. Provide estimate of when data is expected that can feed into SIT processes       
+4. Describe where the project is in the data process (in context of SIT Data Guidance if possible)      
+
+### 11:10-11:40 
+#### Monitoring and Data Synthesis Discussion (Jim Peterson, USGS, Adam Duarte, USFS, Sadie Gill, FlowWest)
+
+**Expected Outcome:**
+Discussion on the monitoring and data guidance in light of the project updates. 
+
+### 11:40-12:00 
+#### Next Steps (Megan Cook, FWS)
+* Upcoming milestones in NTRS Schedule
+* Annual Memo Reporting
+* Next SIT Call / Meeting
+
+### 12:00
+#### Adjourn
