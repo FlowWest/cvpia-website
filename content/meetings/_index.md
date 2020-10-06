@@ -145,7 +145,7 @@ SIT provided with project updates. Presentations will:
 ### 11:10-11:40 
 #### Monitoring and Data Synthesis Discussion (Jim Peterson, USGS, Adam Duarte, USFS, Sadie Gill, FlowWest)
 
-**Expected Outcome:**
+**Expected Outcome:**           
 Discussion on the monitoring and data guidance in light of the project updates. 
 
 ### 11:40-12:00 
