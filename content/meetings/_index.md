@@ -97,7 +97,7 @@ Hear updates and perspectives from agency leadership
 * Sacramento River Science Partnership (Denise Reed)        
 * Coordinated Salmon Science Plan (Bruce DiGennaro)
 
-**Expected Outcome:**
+**Expected Outcome:**       
 SIT provided with introductory briefing on SRSP and CSSP to share information on the partnerships, their focus, and approach to science planning.
 
 ### 3:20-3:30 (Megan Cook, FWS)
