@@ -39,8 +39,8 @@ Review agenda, introduce new Science Coordinator, and welcome new SIT members.
 ### 9:10-9:30
 #### Near-term Restoration Strategy (Mike Urkov)
 **Expected Outcome**        
-1. Present final NTRS primary takeaways        
-2. Summarize addenda received
+1. Present final NTRS primary takeaways.        
+2. Summarize addenda received.
 
 ### 9:30-10:00
 #### Finalize 5-year Schedule for Near-term Restoration Strategy (Megan Cook, FWS)
