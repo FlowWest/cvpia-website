@@ -25,6 +25,8 @@ The models represent an initial agency effort, and are subject to revision and r
 ## Background Information    
 [Background Information on Team Guidelines](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA%2BScience%2BIntegration%2BTeam%2BGuidelines%2BJanuary%2B2020.pdf)
 
+[Near-term Restoration Strategy FY2021-2025](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Near-term+Restoration+Strategy+-+September+2020+-+Sec+508.pdf)
+
 [Five Year Restoration Strategy](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
 
 [FY18 Model Activities](https://drive.google.com/file/d/1BlvUrV5pkcqp-CJcp5WFEh7PnxzknSMH/view)
