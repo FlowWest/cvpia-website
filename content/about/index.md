@@ -35,4 +35,4 @@ The models represent an initial agency effort, and are subject to revision and r
 
 [Listen to the River- CVPIA Review- Fisheries Report](https://drive.google.com/file/d/1vprkjLoUsYCNhtCAfUscvxsyf5jFjUcn/view)
 
-[Draft Proposed CVPIA Science Integration Team Monitoring Guidelines](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Proposed+CVPIA+project+related+monitoring.pdf)
+[Draft Proposed CVPIA Science Integration Team Monitoring Guidelines](https://cvpia-documents.s3-us-west-1.amazonaws.com/CVPIA+project+related+monitoring+final+draft.docx?versionId=YWfZzM.OTxZL7mxEJli2YjGF_fryoxqx)
