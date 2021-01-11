@@ -23,9 +23,25 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call        
-**Date:** January 2021 (Date TBD)     
-**[Join Microsoft Teams Meeting](https://www.google.com/url?q=https%3A%2F%2Fteams.microsoft.com%2Fl%2Fmeetup-join%2F19%253ameeting_Mzg4YTI2MzMtMzZhNi00ZTRhLTk0ZWYtMDFmODljMGY0NGU2%2540thread.v2%2F0%3Fcontext%3D%257b%2522Tid%2522%253a%25220693b5ba-4b18-4d7b-9341-f32f400a5494%2522%252c%2522Oid%2522%253a%25222c282e39-1152-42b7-8968-6d04c31f2047%2522%257d&sa=D&ust=1596923250145000&usg=AOvVaw2d8zCqYSG6VCzz8u54v_AG)**   
+**Date:** January 20, 2021   
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBiNDQwNTQtYjA4NS00MDZiLTg2YWEtYThiZjUxY2ZiODJk%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**   
 
 
 ## Agenda  
-Coming soon
+#### 1:00-1:05pm 
+Welcome, Agenda Review—Megan Cook (FWS) 
+
+#### 1:05-1:15pm 
+Overview of SIT schedule and activities for 2021—Megan Cook (FWS) 
+
+#### 1:15-2:10pm 
+SIT Model Tour and Updates—Jim Peterson (OSU/USGS) and Adam Duarte (USFS) 
+
+#### 2:10-2:20pm 
+Subgroup Update: Monitoring—Megan Cook (FWS) and Jim Peterson (OSU/USGS) 
+
+#### 2:20-2:50pm 
+Food for Fish Presentation and Discussion—Jacob Katz, Jacob Montgomery (Cal Trout) 
+
+#### 2:50-3:00pm 
+New Business (All) 
