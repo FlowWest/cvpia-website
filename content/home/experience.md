@@ -20,31 +20,40 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Model refractoring"
+  title = "FY 20 Annual Memo"
   company = ""
   company_url = ""
   location = "estimated timeframe"
-  date_start = "2020-02-01"
-  date_end = "2020-04-30"
-  description = """Identify actions and implementation partners. Archive and refractor models. Finalize Near-term Restoration Strategy."""
+  date_start = "2021-01-01"
+  date_end = "2021-02-28"
+  description = """Review and finalize the FY20 Adaptive Management Update (previously called Tech Memo)."""
 
   [[experience]]
-  title = "Follow-up on model improvements"
+  title = "Prototype changes to SIT decision support model"
   company = ""
   company_url = ""
   location = "estimated timeframe"
-  date_start = "2020-05-01"
-  date_end = "2020-07-31"
-  description = """Refine information needs for five-year period."""
+  date_start = "2021-02-01"
+  date_end = "2021-03-31"
+  description = """Implement the changes to the model based on proposals reviewed and accepted by the SIT. Review and affirm changes."""
   
 [[experience]]
-  title = "Prepare for FY2021 cycle"
+  title = "Model calibration and sensitivity analysis"
   company = ""
   company_url = ""
   location = "estimated timeframe"
-  date_start = "2020-08-01"
-  date_end = "2020-09-30"
-  description = """Develop proposals for further improvements."""
+  date_start = "2021-04-01"
+  date_end = "2021-08-31"
+  description = """Calibrate model and conduct sensitivity analysis. Assess whether the model is still sound. Release updated version of the model."""
+
+  [[experience]]
+  title = "Evaluate existing priorities in updated model"
+  company = ""
+  company_url = ""
+  location = "estimated timeframe"
+  date_start = "2021-09-01"
+  date_end = "2021-11-30"
+  description = """Using updated model, assess existing priorities and information needs in the Near-term Restoration Strategy to determine if they are still supported. Based on output, determine if revised prioritization is required."""
 
 
 
