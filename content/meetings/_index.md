@@ -23,9 +23,14 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call        
-**Date:** TBD   
+**Date:** Wed 2/24/2021 10:00 AM - 12:00 PM   
 **[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MjBiNDQwNTQtYjA4NS00MDZiLTg2YWEtYThiZjUxY2ZiODJk%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**   
 
 
 ## Agenda  
-Coming soon
+SIT 2021 Process        
+Update on CVPIA Funding Processes       
+Status of SIT DSMs      
+Proposal Update: Growth/Bioenergetics       
+March SIT Meeting Agenda        
+New Business        
