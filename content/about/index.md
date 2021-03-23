@@ -25,7 +25,12 @@ The models represent an initial agency effort, and are subject to revision and r
 ## Background Information    
 [Background Information on Team Guidelines](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA%2BScience%2BIntegration%2BTeam%2BGuidelines%2BJanuary%2B2020.pdf)
 
-[Near-term Restoration Strategy FY2021-2025](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/Near-term+Restoration+Strategy+-+September+2020+-+Sec+508.pdf)
+[Near-term Restoration Strategy FY2021-2025 (Final version)](https://cvpia-documents.s3-us-west-1.amazonaws.com/CVPIA_Near-term-Restoration-Strategy_FY21-FY25_FINAL.pdf)
+
+[Data Guidance for CVPIA Funded Work (Dec 2020 version)](https://cvpia-documents.s3-us-west-1.amazonaws.com/CVPIA-Data-Guidance_Dec-2020.docx)
+
+[SIT Monitoring Guidelines (Dec 2020 version)](https://cvpia-documents.s3-us-west-1.amazonaws.com/SIT-Monitoring-Guidelines_Dec-2020.docx)
+
 
 [Five Year Restoration Strategy](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
 
@@ -35,4 +40,3 @@ The models represent an initial agency effort, and are subject to revision and r
 
 [Listen to the River- CVPIA Review- Fisheries Report](https://drive.google.com/file/d/1vprkjLoUsYCNhtCAfUscvxsyf5jFjUcn/view)
 
-[Draft Proposed CVPIA Science Integration Team Monitoring Guidelines](https://cvpia-documents.s3-us-west-1.amazonaws.com/CVPIA+project+related+monitoring+final+draft.docx?versionId=YWfZzM.OTxZL7mxEJli2YjGF_fryoxqx)
