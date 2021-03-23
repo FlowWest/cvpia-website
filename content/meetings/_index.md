@@ -29,3 +29,13 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Agenda  
 [Download Agenda](https://cvpia-meeting-slides.s3-us-west-2.amazonaws.com/SIT_Mar-2021_Meeting_Agenda-web.docx)      
+
+Please provide comments and edits on the following documents to megan_cook@fws.gov by April 2.
+
+[Revised SIT Guidelines for review (clean version)](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA-Science-Integration-Team_Guidance_Mar-2021-DRAFT-clean+(1).docx)
+
+[Revised SIT Guidelines for review (tracked changes version)](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA-Science-Integration-Team_Guidance_Mar-2021-DRAFT-tracked.docx)
+
+[New pre-proposal template for review](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal-template_pre-proposal_DRAFT-review.docx)
+
+[Revised full proposal template for review](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal-template_full-proposal_DRAFT-review.docx)
