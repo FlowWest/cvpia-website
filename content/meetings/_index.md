@@ -23,19 +23,9 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call        
-**Date:** Wed 3/24/2021 9:00 AM - 3:00 PM   
+**Date:** TBD  
 **[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzA3OWQ5YTktNjE1MC00YjQ2LWI2OTgtZDQ2ZjdiY2ViNzk4%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**   
 
 
 ## Agenda  
-[Download Agenda](https://cvpia-meeting-slides.s3-us-west-2.amazonaws.com/SIT_Mar-2021_Meeting_Agenda-web.docx)      
-
-Please provide comments and edits on the following documents to megan_cook@fws.gov by April 2.
-
-[Revised SIT Guidelines for review (clean version)](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA-Science-Integration-Team_Guidance_Mar-2021-DRAFT-clean+(1).docx)
-
-[Revised SIT Guidelines for review (tracked changes version)](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA-Science-Integration-Team_Guidance_Mar-2021-DRAFT-tracked.docx)
-
-[New pre-proposal template for review](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal-template_pre-proposal_DRAFT-review.docx)
-
-[Revised full proposal template for review](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/SIT-proposal-template_full-proposal_DRAFT-review.docx)
+Coming soon.
