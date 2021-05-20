@@ -1,5 +1,5 @@
 +++
-title = "cvpiaFlow"
+title = "DSMflow"
 date = 2015-09-01T00:00:00
 draft = false
 share = false
@@ -16,8 +16,8 @@ tags = ["R Package"]
 
 
 # Links (optional).
-url_docs = "https://flowwest.github.io/cvpiaFlow/"
-url_code = "https://github.com/flowwest/cvpiaFlow/"
+url_docs = "https://cvpia-osc.github.io/DSMflow/"
+url_code = "https://github.com/CVPIA-OSC/DSMflow"
 
 
 # Featured image

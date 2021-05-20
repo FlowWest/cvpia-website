@@ -1,5 +1,5 @@
 +++
-title = "cvpiaTemperature"
+title = "DSMtemperature"
 date = 2015-09-01T00:00:00
 draft = false
 share = false
@@ -16,8 +16,8 @@ tags = ["R Package"]
 
 
 # Links (optional).
-url_docs = "https://flowwest.github.io/cvpiaTemperature/"
-url_code = "https://github.com/flowwest/cvpiaTemperature/"
+url_docs = "https://cvpia-osc.github.io/DSMtemperature/"
+url_code = "https://github.com/CVPIA-OSC/DSMtemperature"
 
 
 # Featured image
