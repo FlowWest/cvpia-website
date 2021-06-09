@@ -1,5 +1,5 @@
 +++
-title = "fallRunDSM"
+title = "DSMCalibrationData"
 date = 2015-09-01T00:00:00
 draft = false
 share = false
@@ -16,7 +16,7 @@ tags = ["R Package"]
 
 
 # Links (optional).
-url_code = "https://github.com/CVPIA-OSC/fallRunDSM"
+url_code = "https://github.com/CVPIA-OSC/DSMCalibrationData"
 
 
 # Featured image
