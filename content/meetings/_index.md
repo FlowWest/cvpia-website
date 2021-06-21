@@ -28,4 +28,23 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 
 ## Agenda  
-Coming soon.
+**10:00-10:05**         
+Welcome, Agenda Review – Megan Cook (FWS)  
+
+**10:05-10:15**         
+Upcoming in SIT for 2021 – Megan Cook (FWS) 
+
+**10:15-10:45**         
+Model Updates: Late-fall-run Chinook Salmon DSM – Jim Peterson (OSU/USGS), Adam Duarte (USFS) 
+
+**10:45-11:05**         
+SIT Proposal: CalSim Update – Mark Tompkins (FlowWest) 
+
+**11:05-11:15**         
+CVPIA Data Guidance Update – Erin Cain (FlowWest) 
+
+**11:15-11:20**         
+CVPIA Funding Update – Rod Wittler (USBR) 
+
+**11:20-12:00**         
+Trawl Efficiency Project Updates and Discussion – Russ Perry (USGS): “Integrating acoustic tag, coded wire tag, and DNA data to estimate trawl efficiency and abundance of genetic winter Chinook Salmon at Chipps Island” 
