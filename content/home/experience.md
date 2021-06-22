@@ -19,23 +19,7 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
-[[experience]]
-  title = "FY 20 Annual Memo"
-  company = ""
-  company_url = ""
-  location = "estimated timeframe"
-  date_start = "2021-01-01"
-  date_end = "2021-02-28"
-  description = """Review and finalize the FY20 Adaptive Management Update (previously called Tech Memo)."""
 
-  [[experience]]
-  title = "Prototype changes to SIT decision support model"
-  company = ""
-  company_url = ""
-  location = "estimated timeframe"
-  date_start = "2021-02-01"
-  date_end = "2021-03-31"
-  description = """Implement the changes to the model based on proposals reviewed and accepted by the SIT. Review and affirm changes."""
   
 [[experience]]
   title = "Model calibration and sensitivity analysis"
@@ -44,18 +28,25 @@ date_format = "January 2006"
   location = "estimated timeframe"
   date_start = "2021-04-01"
   date_end = "2021-08-31"
-  description = """Calibrate model and conduct sensitivity analysis. Assess whether the model is still sound. Release updated version of the model."""
+  description = """Calibrate Chinook salmon models and conduct sensitivity analysis. Assess whether the models are still sound. Release updated version of the models."""
 
   [[experience]]
   title = "Evaluate existing priorities in updated model"
   company = ""
   company_url = ""
   location = "estimated timeframe"
-  date_start = "2021-09-01"
-  date_end = "2021-11-30"
-  description = """Using updated model, assess existing priorities and information needs in the Near-term Restoration Strategy to determine if they are still supported. Based on output, determine if revised prioritization is required."""
+  date_start = "2021-08-01"
+  date_end = "2021-10-31"
+  description = """Using updated Chinook salmon models, assess existing priorities and information needs in the Near-term Restoration Strategy and determine if revised prioritization is warranted."""
 
-
+[[experience]]
+  title = "FY20/FY21 Adaptive Management Update "
+  company = ""
+  company_url = ""
+  location = "estimated timeframe"
+  date_start = "2021-11-01"
+  date_end = "2021-12-31"
+  description = """Review and finalize the combined FY20 and FY21 Adaptive Management Update (previously called Tech Memo)."""
 
 
 
