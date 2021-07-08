@@ -23,28 +23,9 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 ## Upcoming Meeting
 **Location:** Conference Call        
-**Date:** June 23, 2021 10:00 am - 12:00 pm  
-**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGMxZDYxYzEtM2JiMC00YTAwLTg3N2UtMjIzZDAzZDRhNDJj%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**   
+**Date:** August 25, 2021 9:00 am - 1:30 pm  
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDhhNDAyZmEtZmMwMS00ODRjLTg3ZDQtMmNkODMzZmIzNTAz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**   
 
 
 ## Agenda  
-**10:00-10:05**         
-Welcome, Agenda Review – Megan Cook (FWS)  
-
-**10:05-10:15**         
-Upcoming in SIT for 2021 – Megan Cook (FWS) 
-
-**10:15-10:45**         
-Model Updates: Late-fall-run Chinook Salmon DSM – Jim Peterson (OSU/USGS), Adam Duarte (USFS) 
-
-**10:45-11:05**         
-SIT Proposal: CalSim Update – Mark Tompkins (FlowWest) 
-
-**11:05-11:15**         
-CVPIA Data Guidance Update – Erin Cain (FlowWest) 
-
-**11:15-11:20**         
-CVPIA Funding Update – Rod Wittler (USBR) 
-
-**11:20-12:00**         
-Trawl Efficiency Project Updates and Discussion – Russ Perry (USGS): “Integrating acoustic tag, coded wire tag, and DNA data to estimate trawl efficiency and abundance of genetic winter Chinook Salmon at Chipps Island” 
+Coming soon
