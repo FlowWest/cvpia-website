@@ -53,4 +53,10 @@ CVPIA SIT Meeting
 
 
 ## Agenda  
-Coming soon
+**August 18, 2021**     
+This call is optional for all CVPIA Science Integration Team members. Topics: Background and refresher on SIT process, decision support models, and the development of the Near-term Restoration Strategy. This will be an interactive forum to ask questions and understand the necessary background information to be prepared for the August 25 SIT call that will cover updated model calibration, sensitivity analysis, and model output.
+
+Who should attend: New SIT members, anyone who wants a refresher
+
+**August 25, 2021**     
+Agenda will focus on results of model calibration and sensitivity analysis and reviewing updated model output. Call extended to 4.5 hours (with lunch break) to ensure sufficient time for discussion. SIT members will receive materials to review approx. 2 weeks prior to the call.
