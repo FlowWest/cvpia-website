@@ -21,10 +21,35 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 <iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;src=cvpiadsm%40gmail.com&amp;color=%231B887A&amp;ctz=America%2FLos_Angeles" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
-## Upcoming Meeting
+## Upcoming Meetings
+CVPIA SIT Background Workshop       
+**Location:** Conference Call           
+**Date:** August 18, 2021 1:00 pm - 3:00 pm                               
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzQxYWRkMmUtZDhhNy00NGM1LWI1ZjYtZjBkNDJiMDcxMTQ4%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
+      
+
+CVPIA SIT Meeting                      
 **Location:** Conference Call        
 **Date:** August 25, 2021 9:00 am - 1:30 pm  
-**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDhhNDAyZmEtZmMwMS00ODRjLTg3ZDQtMmNkODMzZmIzNTAz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**   
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NDhhNDAyZmEtZmMwMS00ODRjLTg3ZDQtMmNkODMzZmIzNTAz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**   
+
+CVPIA SIT Meeting                 
+**Location:** Conference Call    
+**Date:** September 15, 2021 10:00 am - 12:00 pm               
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTMyYzJkZTItYWQ2Ni00MTVhLTllYzgtNTdlYmZhZDY3ZDcz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
+
+
+CVPIA SIT Meeting       
+**Location:** Conference Call    
+**Date:** October 13-14, 2021 9:00 am - 4:00 pm               
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk5ZWJkYjItYTQzNC00YTc3LTk1NmYtMDcyM2JiODQ2NDc0%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
+
+
+CVPIA SIT Meeting       
+**Location:** Conference Call    
+**Date:** December 15, 2021 10:00 am - 12:00 pm               
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM4NmMxYmEtYzY1My00ODFhLWJmMzAtNGI1YjRmMGNmNzk1%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
+
 
 
 ## Agenda  
