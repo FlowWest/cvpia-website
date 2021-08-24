@@ -1,23 +1,23 @@
 +++
-title = "Fall Run DSM Results"
+title = "SIT Strategies"
 date = 2015-09-01T00:00:00
 draft = false
 share = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Sadie Gill"]
-summary = "CVPIA DSM Results for Fall Run"
+summary = "SIT Candidate Strategies"
 
 
 # Abstract and optional shortened version.
-description = "CVPIA DSM Results for Fall Run"
+description = "Interactive web application to explore the inputs to the CVPIA Science Integration Team Decision Support Model"
 abstract_short = ""
 tags = ["Shiny App"]
 
 
 # Links (optional).
-url_app = "https://flowwest.shinyapps.io/Fall-Run-DSM-results/"
-url_code = "https://github.com/FlowWest/DSM-results"
+url_app = "https://flowwest.shinyapps.io/dsm-scenario-app/"
+url_code = "https://github.com/FlowWest/DSM-scenario-app"
 
 
 # Featured image
