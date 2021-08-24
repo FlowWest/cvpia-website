@@ -16,7 +16,7 @@ tags = ["Shiny App"]
 
 
 # Links (optional).
-url_app = "https://flowwest.shinyapps.io/dsm-scenario-app/"
+url_app = "https://flowwest.shinyapps.io/SIT-strategies/"
 url_code = "https://github.com/FlowWest/DSM-scenario-app"
 
 
