@@ -29,7 +29,7 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
     
 
 #### Agenda     
-The Science Integration Team will continue discussing the updated model results, overall strategy, and priorities. Please see materials and notes from the Aug 25 SIT call to prepare.
+The Science Integration Team will continue discussing the updated model results, overall strategy, and priorities. Please see materials and [notes](http://cvpia.scienceintegrationteam.com/meetings/2021-08-25/) from the Aug 25 SIT call to prepare.
       
 10:00–10:05am       
 Welcome, Agenda Review – Megan Cook         
