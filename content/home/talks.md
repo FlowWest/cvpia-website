@@ -25,9 +25,9 @@ exclude_selected = false
 
 **[CVPIA SDM](http://cvpia.scienceintegrationteam.com/meetings/)**   
 
-CVPIA SIT Background Workshop
+CVPIA SIT Meeting
 Conference Call    
-August 18, 2021 1:00 pm - 3:00 pm               
+September 15, 2021 10:00 am - 12:00 pm               
 **[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MzQxYWRkMmUtZDhhNy00NGM1LWI1ZjYtZjBkNDJiMDcxMTQ4%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
 **[Agenda](http://cvpia.scienceintegrationteam.com/meetings/#agenda )** 
 
