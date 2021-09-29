@@ -22,37 +22,13 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 
 ## Upcoming Meetings
-### CVPIA SIT Meeting                 
-**Location:** Conference Call    
-**Date:** September 15, 2021 10:00 am - 12:00 pm               
-**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NTMyYzJkZTItYWQ2Ni00MTVhLTllYzgtNTdlYmZhZDY3ZDcz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
-    
-
-#### Agenda     
-The Science Integration Team will continue discussing the updated model results, overall strategy, and priorities. Please see materials and [notes](http://cvpia.scienceintegrationteam.com/meetings/2021-08-25/) from the Aug 25 SIT call to prepare.
-      
-10:00–10:05am       
-Welcome, Agenda Review – Megan Cook         
-
-10:05–10:50am       
-Review updated model results and additional analyses – Jim Peterson, Adam Duarte        
-
-10:50–11:30am       
-Continue discussion of overall strategy and priorities– All         
-
-11:30–11:45am       
-CVPIA Funding process update – Matt Dekar, Rod Wittler      
-
-11:45–12:00pm       
-October SIT Meeting Agenda Overview – Megan Cook        
-
-
-
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
 **Date:** October 13-14, 2021 9:00 am - 4:00 pm               
-**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk5ZWJkYjItYTQzNC00YTc3LTk1NmYtMDcyM2JiODQ2NDc0%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
-
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk5ZWJkYjItYTQzNC00YTc3LTk1NmYtMDcyM2JiODQ2NDc0%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**            
+    
+#### Agenda     
+Coming Soon   
 
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
