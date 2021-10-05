@@ -29,70 +29,7 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
     
 #### Agenda     
 
-##### Wednesday, October 13, 2021
-
-**9:00–9:05** Welcome, Agenda Review – Megan Cook
-
-**9:05–9:35** Introductions / Icebreaker – Megan Cook
-
-**9:35–9:50** Review SIT Guidance for making decisions – Megan Cook
-
-**9:50–10:50** Conclusion of model updates and priorities discussion – Jim Peterson, Adam Duarte
-
-**10:50–11:05** BREAK
-
-**11:05–11:25** Late‐fall‐run DSM update – Jim Peterson, Adam Duarte
-
-**11:25–11:55** Sturgeon DSM update – Erin Lunda
-
-**11:55–12:40** LUNCH BREAK
-
-**12:40–1:10** Steelhead DSM update – Lauren Diaz
-
-**1:10–1:30** Stanislaus steelhead monitoring – Mike Beakes
-
-**1:30–1:50** SIT discussion on DSM use by others – Megan Cook, Rod Wittler
-
-**1:50–2:05** Revised SIT Guidance – Megan Cook
-
-**2:05–2:20** BREAK
-
-**2:20–2:50** Predator Contact Points update – Cyril Michel 
-
-**2:50–3:10** Habitat updates – Mark Tompkins, Rod Wittler
-
-**3:10–3:25** Revised Operations Proposal – Mark Tompkins
-
-**3:25–3:30** Review Agenda Day 2 – Megan Cook (FWS)
-
-**3:30pm** Adjourn Day 1
-
-
-##### Thursday, October 14, 2021
-
-**9:00–9:05** Welcome, Agenda Review – Megan Cook
-
-**9:05–9:20** 9:05–9:20 Salmon Demographics update – Mike Beakes
-
-**9:20–9:50** Bioenergetics Full Proposal – Corey Phillis, Mike Beakes
-
-**9:50–10:20** Pre‐proposal: Reservoir prey subsidies – Mike Beakes, Rob Lusardi, Francesco Bellido
-
-**10:20–10:35** BREAK
-
-**10:35–10:45** Monitoring Subgroup – Megan Cook
-
-**10:45–10:55** New climate change subgroup – Megan Cook
-
-**10:55–11:25** Chipps Island Trawl efficiency project and additional analyses –  Russ Perry, Bryan Matthias
-
-**11:25–11:40** 2022 SIT Calendar – Megan Cook
-
-**11:40–12:00** New Business – Megan Cook
-
-**12:00–12:30** Optional: CVPIA Funding Info Session – Matt Dekar, Rod Wittler
-
-**12:30pm** Adjourn Day 2
+View the SIT October 13 - 14 meeting agenda [here](https://cvpia-reference-docs.s3.us-west-2.amazonaws.com/SIT_Oct-2021-meeting_agenda_final.pdf).
 
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
