@@ -31,6 +31,8 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 View the SIT October 13 - 14 meeting agenda [here](https://cvpia-reference-docs.s3.us-west-2.amazonaws.com/SIT_Oct-2021-meeting_agenda_final.pdf).
 
+View the Growth Transition Proposal [here](https://cvpia-reference-docs.s3.us-west-2.amazonaws.com/Growth_Transition_Proposal_12October2021.docx)
+
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
 **Date:** December 15, 2021 10:00 am - 12:00 pm               
