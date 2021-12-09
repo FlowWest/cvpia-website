@@ -22,18 +22,12 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 
 ## Upcoming Meetings
-### CVPIA SIT Meeting       
-**Location:** Conference Call    
-**Date:** October 13-14, 2021 9:00 am - 4:00 pm               
-**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_Mjk5ZWJkYjItYTQzNC00YTc3LTk1NmYtMDcyM2JiODQ2NDc0%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**            
-    
-#### Agenda     
-
-View the SIT October 13 - 14 meeting agenda [here](https://cvpia-reference-docs.s3.us-west-2.amazonaws.com/SIT_Oct-2021-meeting_agenda_final.pdf).
-
-View the Growth Transition Proposal [here](https://cvpia-reference-docs.s3.us-west-2.amazonaws.com/Growth_Transition_Proposal_12October2021.docx)
-
+ 
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
 **Date:** December 15, 2021 10:00 am - 12:00 pm               
-**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM4NmMxYmEtYzY1My00ODFhLWJmMzAtNGI1YjRmMGNmNzk1%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d    )**          
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM4NmMxYmEtYzY1My00ODFhLWJmMzAtNGI1YjRmMGNmNzk1%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**          
+
+#### Agenda   
+
+TBD
