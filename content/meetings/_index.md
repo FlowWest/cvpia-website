@@ -30,4 +30,20 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 #### Agenda   
 
-TBD
+1. Introductions / Agenda Review (Jim Peterson/USGS; 5 minutes)
+2. Drought Toolkit Presentation (Cindy Meyer/USBR; 20 minutes)
+3. Current Proposals to Update / Change DSMs
+
+    a) Bioenergetics Proposal Update (Corey Phillis/MWD; Mike Beakes/USBR; 
+15 minutes)
+
+    b) Changes to Flow Inputs (Mark Tompkins/FlowWest; 5 minutes)
+
+    c) Habitat Decay Proposal (Mark Tompkins/FlowWest; 5 minutes)
+    
+4. Subgroups Focusing on DSM Development / Improvement in 2022 (Various; 20 
+minutes)
+5. NOFO Update (Rod Wittler/USBR; 5 minutes)
+6. Call for science/project presentations to SIT in 2022
+7. New Business / Updates from Outside Programs
+8. Adjourn
