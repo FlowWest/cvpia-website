@@ -25,25 +25,23 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
  
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
-**Date:** December 15, 2021 10:00 am - 12:00 pm               
-**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NWM4NmMxYmEtYzY1My00ODFhLWJmMzAtNGI1YjRmMGNmNzk1%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**          
+**Date:** January 12, 2022 10:00 am - 12:00 pm               
+**[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ4ZGExZmUtNzhlYS00Y2E2LWJhYjgtYmZhOTBlMjNmNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**          
 
 #### Agenda   
 
-1. Introductions / Agenda Review (Jim Peterson/USGS; 5 minutes)
-2. Drought Toolkit Presentation (Cindy Meyer/USBR; 20 minutes)
-3. Current Proposals to Update / Change DSMs
+10:00: Introductions / Agenda Review (Megan Cook) 
 
-    a) Bioenergetics Proposal Update (Corey Phillis/MWD; Mike Beakes/USBR; 
-15 minutes)
+10:05: 2022 SIT Objectives and Schedule (Megan Cook, Jim Peterson, Rod Wittler) 
 
-    b) Changes to Flow Inputs (Mark Tompkins/FlowWest; 5 minutes)
+10:20: Adaptive Management Update (Megan Cook) 
 
-    c) Habitat Decay Proposal (Mark Tompkins/FlowWest; 5 minutes)
-    
-4. Subgroups Focusing on DSM Development / Improvement in 2022 (Various; 20 
-minutes)
-5. NOFO Update (Rod Wittler/USBR; 5 minutes)
-6. Call for science/project presentations to SIT in 2022
-7. New Business / Updates from Outside Programs
-8. Adjourn
+10:30: SIT Subgroups (Megan Cook) 
+
+10:45: Juvenile Fish Movement Rule Sets – Part 1 (Adam Duarte) 
+
+11:30: Call for 2022 SIT Presentations (Megan Cook)  
+
+11:45: New Business? (All) 
+
+12:00: Adjourn  
