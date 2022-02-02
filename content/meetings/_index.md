@@ -30,4 +30,14 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 #### Agenda   
 
-Coming soon.
+10:00 Welcome and Agenda Review – Megan Cook (FWS) 
+
+10:05 Adaptive Management Update – Megan Cook (FWS) 
+
+10:25 Subgroup and Proposal Updates – Megan Cook (FWS) 
+
+10:45 Juvenile Movement Rulesets Part 2 – Adam Duarte (USFS) 
+
+11:30 Science Talk: Spring-run Juvenile Production Estimate Science Program – Brett Harvey (DWR) 
+
+12:00 Adjourn
