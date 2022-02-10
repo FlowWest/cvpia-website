@@ -25,19 +25,9 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
  
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
-**Date:** February 9, 2022 10:00 am - 12:00 pm               
+**Date:** March 9, 2022 10:00 am - 12:00 pm               
 **[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ4ZGExZmUtNzhlYS00Y2E2LWJhYjgtYmZhOTBlMjNmNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**          
 
 #### Agenda   
 
-10:00 Welcome and Agenda Review – Megan Cook (FWS) 
-
-10:05 Adaptive Management Update – Megan Cook (FWS) 
-
-10:25 Subgroup and Proposal Updates – Megan Cook (FWS) 
-
-10:45 Juvenile Movement Rulesets Part 2 – Adam Duarte (USFS) 
-
-11:30 Science Talk: Spring-run Juvenile Production Estimate Science Program – Brett Harvey (DWR) 
-
-12:00 Adjourn
+Coming soon
