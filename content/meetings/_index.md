@@ -37,4 +37,6 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 
 10:30 Subgroup Updates 
 
-11:15 Science Talk: "Where do all the salmon go? Modeling the distribution of Chinook salmon stocks using tagging and genetic data" – Alexander Jensen (University of Washington) 
+10:50 Science Talk: "Where do all the salmon go? Modeling the distribution of Chinook salmon stocks using tagging and genetic data" – Alexander Jensen (University of Washington) 
+
+11:30 Adjourn
