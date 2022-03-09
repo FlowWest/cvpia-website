@@ -29,14 +29,4 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 **[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ4ZGExZmUtNzhlYS00Y2E2LWJhYjgtYmZhOTBlMjNmNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**          
 
 #### Agenda   
-10:00 Welcome and Agenda Review 
-
-10:05 FY20-21 Adaptive Management Update 
-
-10:20 Upcoming SIT Timeline 
-
-10:30 Subgroup Updates 
-
-10:50 Science Talk: "Where do all the salmon go? Modeling the distribution of Chinook salmon stocks using tagging and genetic data" – Alexander Jensen (University of Washington) 
-
-11:30 Adjourn
+Coming soon. 
