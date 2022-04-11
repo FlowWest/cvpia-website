@@ -25,8 +25,18 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
  
 ### CVPIA SIT Meeting       
 **Location:** Conference Call    
-**Date:** March 9, 2022 10:00 am - 12:00 pm               
+**Date:** April 13, 2022 10:00 am - 12:00 pm               
 **[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ4ZGExZmUtNzhlYS00Y2E2LWJhYjgtYmZhOTBlMjNmNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**          
 
 #### Agenda   
-Coming soon. 
+10:00 **Welcome and Agenda Review**
+
+10:05 **SIT 2022 Objectives - Progress and Timeline**
+
+10:35 **SIT Subgroup Updates**
+
+11:00 **Science Talk: “Evaluating the role(s) of the Butte sink and Sutter Bypass for Central Valley juvenile salmonid populations”** [update on 3-year study]– Flora Cordoleani (NOAA-NMFS and UC Santa Cruz)
+
+11:30 **New Business** (email megan_cook@fws.gov with topics)
+
+12:00 **Adjourn**
