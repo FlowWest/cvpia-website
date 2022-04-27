@@ -22,23 +22,30 @@ SDM provides a formal, documented, and open source process to develop quantifiab
 
 The models represent an initial agency effort, and are subject to revision and refinement. Reclamation and the Service seek broad support and buy-in for resource decisions by facilitating stakeholder participation in the process of formulating models. The effort described here will support continuous improvement of SDM within, between, and outside of the stakeholder agencies, and ultimately achieve the CVPIA fish doubling goal.
 
-## Background Information    
-[Background Information on Team Guidelines](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA%2BScience%2BIntegration%2BTeam%2BGuidelines%2BJanuary%2B2020.pdf)
-
+## Current Priorities
 [Near-term Restoration Strategy FY2021-2025 (Final version)](https://cvpia-documents.s3-us-west-1.amazonaws.com/CVPIA_Near-term-Restoration-Strategy_FY21-FY25_FINAL.pdf)
+
+[Adaptive Management Update for FY20-FY21](https://cvpia-documents.s3.us-west-1.amazonaws.com/CVPIA-Adaptive-Management-Update_FY20-21_Final.pdf)
+
+## Guidance Documents
 
 [Data Guidance for CVPIA Funded Work (Dec 2020 version)](https://cvpia-documents.s3-us-west-1.amazonaws.com/CVPIA-Data-Guidance_Dec-2020.docx)
 
 [SIT Monitoring Guidelines (Dec 2020 version)](https://cvpia-documents.s3-us-west-1.amazonaws.com/SIT-Monitoring-Guidelines_Dec-2020.docx)
 
+[SIT Membership Guidelines (Jan 2020 version)](https://cvpia-reference-docs.s3-us-west-2.amazonaws.com/CVPIA%2BScience%2BIntegration%2BTeam%2BGuidelines%2BJanuary%2B2020.pdf)
 
-[Five Year Restoration Strategy](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
+## Previous Priorities 
 
-[FY18 Model Activities](https://drive.google.com/file/d/1BlvUrV5pkcqp-CJcp5WFEh7PnxzknSMH/view)
+[Technical Memo for FY2020 Priorities (6 February 2019)](https://drive.google.com/file/d/1Ec3qn0Wk-PiygfZm-ZsdnYOUhdRl2sPd/view)
 
-[2019 Priorities Technical Memorandum for FY2020](https://drive.google.com/file/d/1Ec3qn0Wk-PiygfZm-ZsdnYOUhdRl2sPd/view)
+[Technical Memo for FY2018 Priorities (3 March 2017)](https://drive.google.com/file/d/1BlvUrV5pkcqp-CJcp5WFEh7PnxzknSMH/view)
+
+
+## Background Documents 
+[SIT Plan to develop Near-term Restoration Strategy (25 April 2018)](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
 
 [Listen to the River- CVPIA Review- Fisheries Report](https://drive.google.com/file/d/1vprkjLoUsYCNhtCAfUscvxsyf5jFjUcn/view)
 
-[SIT Evolution Process](https://cvpia-reference-docs.s3.us-west-2.amazonaws.com/SIT+evolution+process.pdf)
+
 
