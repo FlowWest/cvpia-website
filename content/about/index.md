@@ -37,15 +37,15 @@ The models represent an initial agency effort, and are subject to revision and r
 
 ## Previous Priorities 
 
-[Technical Memo for FY2020 Priorities (6 February 2019)](https://drive.google.com/file/d/1Ec3qn0Wk-PiygfZm-ZsdnYOUhdRl2sPd/view)
+[Technical Memo for FY2020 Priorities (6 February 2019)](https://cvpia-documents.s3.us-west-1.amazonaws.com/TechMemo2019.pdf)
 
-[Technical Memo for FY2018 Priorities (3 March 2017)](https://drive.google.com/file/d/1BlvUrV5pkcqp-CJcp5WFEh7PnxzknSMH/view)
+[Technical Memo for FY2018 Priorities (3 March 2017)](https://cvpia-documents.s3.us-west-1.amazonaws.com/CVPIA+Science+Integration+Team+Tech+Memo+-+FY18+Decision+Support+Model+activities+and+FY17+priorities.pdf)
 
 
 ## Background Documents 
-[SIT Plan to develop Near-term Restoration Strategy (25 April 2018)](https://drive.google.com/file/d/1qqh1vbTY9ydFBhPtiyfqRYFCj4k5KeWZ/view)
+[SIT Plan to develop Near-term Restoration Strategy (25 April 2018)](https://cvpia-documents.s3.us-west-1.amazonaws.com/CVPIA+Science+Integration+Team+Plan+to+Develop+5+Year+Restoration+Strategy.pdf)
 
-[Listen to the River- CVPIA Review- Fisheries Report](https://drive.google.com/file/d/1vprkjLoUsYCNhtCAfUscvxsyf5jFjUcn/view)
+[Listen to the River- CVPIA Review- Fisheries Report](https://cvpia-documents.s3.us-west-1.amazonaws.com/2008_Listen-to-the-River_CVPIA-Fisheries-Review.pdf)
 
 
 
