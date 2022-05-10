@@ -29,11 +29,9 @@ Biological expertise and institutional knowledge is transferred to the SDM proce
 **[Join Microsoft Teams Meeting](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzQ4ZGExZmUtNzhlYS00Y2E2LWJhYjgtYmZhOTBlMjNmNWEz%40thread.v2/0?context=%7b%22Tid%22%3a%220693b5ba-4b18-4d7b-9341-f32f400a5494%22%2c%22Oid%22%3a%2221fd3330-a882-41c0-8548-dfb3ce078083%22%7d)**          
 
 #### Agenda   
-* 10:00 Welcome/Agenda Review (Megan Cook)  
-* 10:05 SIT Structured Decision-Making Direction for the remainder of the year (Jim Peterson, Adam Duarte)  
-* 10:25 NTRS Info Needs Gap Analysis – Process, Timeline, Q&A (Megan Cook, Rod Wittler)  
-* 10:50 Summarize all outstanding SIT Proposals (new, in progress) and timeline (Megan Cook)  
-* 11:05 Subgroup Updates (Megan Cook)  
-* 11:15 Results of Updated Coded Wire Tag Data Analysis (Jim Peterson)  
-* 11:30 Science Talk: “Optimizing river flows for juvenile Chinook salmon survival: a case study” (Patti Wohner, Oregon State University). Here, we illustrate how estimates derived from monitoring data can be used to inform water management and as a basis for adaptively managing flows. Specifically, we conducted a meta-analysis of Chinook salmon smolt survival and routing estimates through the south Delta. We then used the resulting parameter estimates to develop a survival and routing simulation model to estimate optimal flows for the San Joaquin River during smolt outmigration from February–May.  
-* 12:00 Adjourn
+* 10:00 Welcome/Agenda Review (Megan Cook)          
+* 10:05 SIT Structured Decision-Making Direction for the remainder of the year (Jim Peterson, Adam Duarte)          
+* 10:35 NTRS Info Needs Gap Analysis – Process, Timeline, Q&A (Megan Cook, Jim Peterson)        
+* 10:50 Summarize all outstanding SIT Proposals (new, in progress) and timeline (Megan Cook)        
+* 11:05 Science Talk: “Optimizing river flows for juvenile Chinook salmon survival: a case study” (Patti Wohner, Oregon State University). Here, we illustrate how estimates derived from monitoring data can be used to inform water management and as a basis for adaptively managing flows. Specifically, we conducted a meta-analysis of Chinook salmon smolt survival and routing estimates through the south Delta. We then used the resulting parameter estimates to develop a survival and routing simulation model to estimate optimal flows for the San Joaquin River during smolt outmigration from February–May.        
+* by 12:00 Adjourn (likely early)
